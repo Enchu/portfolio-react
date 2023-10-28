@@ -4,8 +4,8 @@ import project01Big from './../image/projects/01-big.jpg'
 import project02 from './../image/projects/02.jpg'
 import project02Big from './../image/projects/02-big.jpg'
 
-import project03 from './../image/projects/cswpf.png'
-import project03Big from './../image/projects/cswpfbig.png'
+import project03 from './../image/projects/03.jpg'
+import project03Big from './../image/projects/03-big.jpg'
 
 const projects = [
     {
