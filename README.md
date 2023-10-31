@@ -1,2 +1,2 @@
 ### `npm start`
-### `https://portfolio-react-brown-rho.vercel.app/`
+### https://portfolio-react-brown-rho.vercel.app/
